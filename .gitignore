@@ -1,0 +1,7 @@
+# Ignore proprietary spreadsheet exports
+*.xlsx
+*.xls
+
+# Optional local environment folders
+.pptx-venv/
+.xlsx-venv/
